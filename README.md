@@ -1,3 +1,3 @@
 # Git1
 Lab1
-Changes in Git1
+print("Write something");
